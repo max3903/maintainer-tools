@@ -60,6 +60,7 @@ OCA_PROJECTS = {
     'intercompany': ['multi-company'],
     'l10n-belgium': ['l10n-belgium'],
     'l10n-canada': ['l10n-canada'],
+    'l10n-ethiopia': ['l10n-ethiopia'],
     'l10n-france': ['l10n-france'],
     'l10n-italy': ['l10n-italy'],
     'l10n-luxemburg': ['l10n-luxemburg'],
